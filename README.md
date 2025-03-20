@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/bernardodestefano/bernardodestefano/blob/master/assets/dev.gif" width="450px"><br><br>
-  <samp> I'm a <b>Front-End Engineer</b> based in <b>Zurich</b> 🇨🇭 <br>Some of the technologies I am enjoying working with includes Javascript, ReactJS, NextJS, NodeJS, Webpack, Vercel, other JS frameworks and time to time I like to play around with 💎 Sketch. 
+  <samp> I'm a <b>Software Engineering Manager</b> based in <b>Zurich</b> 🇨🇭 <br>Some of the technologies I enjoy working with include Javascript, React, NextJS, Node, Vercel, and time to time I like to play around with 💎 Sketch. 
   </samp>
   <br>
 </p>
@@ -16,15 +16,3 @@
 
 <img src="https://github.com/bernardodestefano/bernardodestefano/blob/master/assets/wave.svg" />
 
-<!--
-**bernardodestefano/bernardodestefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
